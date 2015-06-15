@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "static lib", "static lib\static lib.vcxproj", "{5334E83B-39FA-4B0F-9192-98B0D79DADEF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5334E83B-39FA-4B0F-9192-98B0D79DADEF}.Debug|Win32.ActiveCfg = Debug|Win32
+		{5334E83B-39FA-4B0F-9192-98B0D79DADEF}.Debug|Win32.Build.0 = Debug|Win32
+		{5334E83B-39FA-4B0F-9192-98B0D79DADEF}.Release|Win32.ActiveCfg = Release|Win32
+		{5334E83B-39FA-4B0F-9192-98B0D79DADEF}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

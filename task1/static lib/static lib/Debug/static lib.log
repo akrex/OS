@@ -1,0 +1,18 @@
+﻿Build started 15.06.2015 20:03:35.
+     1>Project "D:\Projects\OS\task1\static lib\static lib\static lib.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"stdafx.h" /Fp"Debug\static lib.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\static lib.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Math.cpp
+         Math.cpp
+     1>d:\projects\os\task1\static lib\static lib\math.cpp(14): warning C4244: 'return' : conversion from 'int' to 'float', possible loss of data
+     1>d:\projects\os\task1\static lib\static lib\math.cpp(16): warning C4244: 'return' : conversion from 'int' to 'float', possible loss of data
+       Lib:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\Lib.exe /OUT:"D:\Projects\OS\task1\static lib\Debug\static lib.lib" /NOLOGO Debug\Math.obj
+         Debug\stdafx.obj
+         static lib.vcxproj -> D:\Projects\OS\task1\static lib\Debug\static lib.lib
+     1>Done Building Project "D:\Projects\OS\task1\static lib\static lib\static lib.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.44
